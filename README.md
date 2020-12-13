@@ -1,7 +1,9 @@
 
-# **Readme!**
+# ** Readme for Bootcamp Homework 1:  HTML and CSS Refactor**
 upon reading through the code I first checked for redundancies in how the html and the css communicated.  I consolidated and noted what I could from both pages in order to show my thought process.  I did run into a few challenges when it came to making sure that some of the styles didnt conflict or override their new orders.
 This grew difficult so I went as far as I could with minimal recoding in order to avoid tampering with the original code too much.  Below you will find screenshots of both the source and the style sheet along with the comments and changes I made to both in order to streamline functionality, make the site more accessible, and compress code in order to make it more readable.
+
+* At one point I ran into git troubles and decided to start a new repo in order to streamline the page.  I lost a lot of my previous commit records when I did switch repos and before I thought to screen shot them or link them in the read me I decided to delete it!
 
 ## Changes to html
 
