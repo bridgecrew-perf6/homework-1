@@ -39,6 +39,7 @@ This grew difficult so I went as far as I could with minimal recoding in order t
 
 6. Along with all of the consolidation I tried to go through and make sure that the integrity of the site was still the same.  I did this by making sure that everything was still sized correctly.  In some instances I had to slightly modify some padding or margins.
 
+## here is a link to the deployed site https://cmgson.github.io/homework-1/
 
 
 
